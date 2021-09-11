@@ -16,7 +16,17 @@ public class Class1
 
             if (i > winNum)
             {
-                Console.WriteLine("Too High! Guess lower...")
+                Console.WriteLine("Too High! Guess lower...");
+            }
+
+            else if (i < winNum)
+            {
+                Console.WriteLine("Go low! guess high..");
+            }
+
+            else if (i == winNum)
+            {
+                Console.WriteLine("YOU WIN!");
             }
         } while (win == false);
     }
