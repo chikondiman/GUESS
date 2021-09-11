@@ -11,6 +11,9 @@ public class Class1
         {
             Console.Write("Guess a number in between 0-100");
             string a = Console.ReadLine();
+
+            int i = int.Parse(s);
+
         } while (win == false);
     }
 }
