@@ -14,6 +14,8 @@ public class Class1
 
             int i = int.Parse(s);
 
+            if (i > winNum)
+
         } while (win == false);
     }
 }
