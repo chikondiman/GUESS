@@ -15,7 +15,9 @@ public class Class1
             int i = int.Parse(s);
 
             if (i > winNum)
-
+            {
+                Console.WriteLine("Too High! Guess lower...")
+            }
         } while (win == false);
     }
 }
