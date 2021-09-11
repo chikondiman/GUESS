@@ -28,6 +28,8 @@ public class Class1
             {
                 Console.WriteLine("YOU WIN!");
             }
+            Console.WriteLine();
         } while (win == false);
+        Console.Write("Thank you for playing the game!");
     }
 }
