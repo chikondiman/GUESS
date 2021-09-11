@@ -1,0 +1,9 @@
+C:\Users\New HP\CODE_KONDI\GUESS\GUESS\bin\Debug\GUESS.dacpac
+C:\Users\New HP\CODE_KONDI\GUESS\GUESS\bin\Debug\GUESS.dll
+C:\Users\New HP\CODE_KONDI\GUESS\GUESS\bin\Debug\GUESS.pdb
+C:\Users\New HP\CODE_KONDI\GUESS\GUESS\obj\Debug\Model.xml
+C:\Users\New HP\CODE_KONDI\GUESS\GUESS\obj\Debug\refactor.xml
+C:\Users\New HP\CODE_KONDI\GUESS\GUESS\obj\Debug\postdeploy.sql
+C:\Users\New HP\CODE_KONDI\GUESS\GUESS\obj\Debug\predeploy.sql
+C:\Users\New HP\CODE_KONDI\GUESS\GUESS\obj\Debug\GUESS.dll
+C:\Users\New HP\CODE_KONDI\GUESS\GUESS\obj\Debug\GUESS.pdb
