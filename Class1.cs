@@ -19,10 +19,7 @@ public class Class1
                 Console.WriteLine("Too High! Guess lower.....");
             }
 
-            else if (i < winNum)
-            {
-                Console.WriteLine("Go low! guess high..");
-            }
+         
 
             else if (i == winNum)
             {
