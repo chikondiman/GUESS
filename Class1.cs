@@ -19,17 +19,17 @@ public class Class1
                 Console.WriteLine("Too High! Guess lower.....");
             }
 
-         
+                        else if (i < winNum)
+            {
+                Console.WriteLine("Go low! guess high...");
+            }
 
             else if (i == winNum)
             {
                 Console.WriteLine("YOU WIN, YOU GUESSED THE GAME!");
             }
 
-               else if (i < winNum)
-            {
-                Console.WriteLine("Go low! guess high...");
-            }
+
             Console.WriteLine();
         } while (win == false);
         Console.Write("Thank you for playing the game my g, you're such a winner");
