@@ -25,6 +25,11 @@ public class Class1
             {
                 Console.WriteLine("YOU WIN!");
             }
+
+               else if (i < winNum)
+            {
+                Console.WriteLine("Go low! guess high...");
+            }
             Console.WriteLine();
         } while (win == false);
         Console.Write("Thank you for playing the game!");
