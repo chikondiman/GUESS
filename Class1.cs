@@ -23,7 +23,7 @@ public class Class1
 
             else if (i == winNum)
             {
-                Console.WriteLine("YOU WIN!");
+                Console.WriteLine("YOU WIN, YOU GUESSED THE GAME!");
             }
 
                else if (i < winNum)
