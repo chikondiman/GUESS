@@ -32,6 +32,6 @@ public class Class1
             }
             Console.WriteLine();
         } while (win == false);
-        Console.Write("Thank you for playing the game my g");
+        Console.Write("Thank you for playing the game my g, you're such a winner");
     }
 }
